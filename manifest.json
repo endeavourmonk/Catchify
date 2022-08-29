@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Catchify",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "catchify.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
